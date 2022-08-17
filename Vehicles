@@ -1,5 +1,5 @@
-#Code
-```Python=
+# Code
+``` Python=
 import pigpio
 import time
 import threading
