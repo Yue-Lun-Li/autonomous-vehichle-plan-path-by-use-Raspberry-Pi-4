@@ -1,5 +1,4 @@
-# Code
-``` Python=
+
 import pigpio
 import time
 import threading
@@ -232,4 +231,3 @@ if __name__ == '__main__':
     t2.join()
     t3.join()
 
-  '''
